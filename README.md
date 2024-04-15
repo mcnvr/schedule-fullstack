@@ -1,7 +1,11 @@
-# Simple Full-Stack Calendar
-Simple calendar application to learn and practice some of the basics of full-stack development with Flask and React.
+# Full-Stack Schedule/Planner
+
+Simple scheduling application to learn and practice the basics of full-stack development.
+
+React frontend and Flask backend with SQLAlchemy database to store schedule information.
 
 ## Run
+
 .\backend
 ```
 python .\main.py
